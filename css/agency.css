@@ -304,7 +304,17 @@ header .intro-text .intro-heading {
     font-weight: 700;
     line-height: 50px;
 }
-
+.intro-heading {
+    margin-bottom: 50px;
+    text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+.btn-space-bottom{
+    margin-bottom: 50px;
+}
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
